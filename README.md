@@ -41,7 +41,7 @@ The project structure is as follows:
 - `index.html`: The main HTML file that contains the structure and layout of the game.
 - `index.css`: The CSS file that defines the visual styling of the game.
 - `index.js`: The JavaScript file that implements the game logic and functionality.
-- `table2.png`: A directory containing any images used in the game.
+- `table2.jpg`: The image used in the game as a background.
 
 ## Contributions
 
